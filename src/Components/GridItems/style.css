@@ -1,0 +1,12 @@
+.grid {
+  width: 90px;
+  height: 90px;
+  background-color: lightgrey;
+  border: 8px solid grey;
+  margin: 5px;
+  font-size: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
