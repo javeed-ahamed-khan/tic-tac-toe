@@ -1,8 +1,9 @@
 .grid {
   width: 90px;
   height: 90px;
-  background-color: lightgrey;
-  border: 8px solid grey;
+  background-color: #dcd6bc;
+  border: 8px solid;
+  border-color: #f5f3eb #bab7a9 #bab7a9 #fff9db;
   margin: 5px;
   font-size: 90px;
   display: flex;
